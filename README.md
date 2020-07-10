@@ -1,5 +1,7 @@
 ### Hi there 👋
+Im Juan Jose Vargas and Im developer from Heredia, Costa Rica.
 
+Skill
 <!--
 **jnvargasb07/jnvargasb07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
