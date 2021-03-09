@@ -1,5 +1,5 @@
 ### Hi there 👋
-Im Juan Jose Vargas and Im developer from Heredia, Costa Rica.
+Im Juan Jose Vargas and Im developer from San Carlos, Alajuela, Costa Rica.
 
 Skill
 <!--
